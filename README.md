@@ -1,6 +1,6 @@
 # Vehicle_Violation_Detector
 A Simple Python Based Remote Vehicle Violation System using TKinter GUI, MySQL &amp; easygui (for video analysis). 
-It is a desktop application designed to analyze traffic violations by vehicles remotely by admin through a recorded video of the same
+It is a desktop application designed to analyze traffic violations by vehicles remotely through a recorded video of the same.
 
 ## Features
 -> Video player for analysis of recorded video\
